@@ -8379,11 +8379,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\seand\\Documents\\websites\\BookListRazor\\BookListRazor\\BookListRazor.csproj",
+      "projectUniqueName": "C:\\Users\\seand\\Documents\\websites\\RazorPages\\BookListRazor\\BookListRazor.csproj",
       "projectName": "BookListRazor",
-      "projectPath": "C:\\Users\\seand\\Documents\\websites\\BookListRazor\\BookListRazor\\BookListRazor.csproj",
+      "projectPath": "C:\\Users\\seand\\Documents\\websites\\RazorPages\\BookListRazor\\BookListRazor.csproj",
       "packagesPath": "C:\\Users\\seand\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\seand\\Documents\\websites\\BookListRazor\\BookListRazor\\obj\\",
+      "outputPath": "C:\\Users\\seand\\Documents\\websites\\RazorPages\\BookListRazor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\seand\\AppData\\Roaming\\NuGet\\NuGet.Config",
