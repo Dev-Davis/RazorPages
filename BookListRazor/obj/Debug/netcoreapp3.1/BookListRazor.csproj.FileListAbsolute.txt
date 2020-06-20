@@ -815,3 +815,4 @@ C:\Users\seand\Documents\websites\RazorPages\BookListRazor\obj\Debug\netcoreapp3
 C:\Users\seand\Documents\websites\RazorPages\BookListRazor\obj\Debug\netcoreapp3.1\BookListRazor.pdb
 C:\Users\seand\Documents\websites\RazorPages\BookListRazor\obj\Debug\netcoreapp3.1\BookListRazor.genruntimeconfig.cache
 C:\Users\seand\Documents\websites\RazorPages\BookListRazor\obj\Debug\netcoreapp3.1\Razor\Pages\BookList\Create.cshtml.g.cs
+C:\Users\seand\Documents\websites\RazorPages\BookListRazor\obj\Debug\netcoreapp3.1\Razor\Pages\BookList\Edit.cshtml.g.cs
